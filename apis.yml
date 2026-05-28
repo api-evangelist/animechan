@@ -1,0 +1,32 @@
+aid: animechan
+name: AnimeChan
+description: "Anime quotes (over 10k+)"
+url: https://github.com/RocktimSaikia/anime-chan
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anime"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anime
+  - Public APIs
+apis:
+  - name: AnimeChan
+    description: "Anime quotes (over 10k+)"
+    humanURL: https://github.com/RocktimSaikia/anime-chan
+    baseURL: https://github.com/RocktimSaikia/anime-chan
+    tags:
+      - Anime
+    properties:
+      - type: Documentation
+        url: https://github.com/RocktimSaikia/anime-chan
+common:
+  - type: Website
+    url: https://github.com/RocktimSaikia/anime-chan
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
