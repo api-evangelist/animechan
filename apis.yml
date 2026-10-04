@@ -39,7 +39,6 @@ apis:
   - name: AnimeChan
     description: "Anime quotes (over 10k+)"
     humanURL: https://github.com/RocktimSaikia/anime-chan
-    baseURL: https://github.com/RocktimSaikia/anime-chan
     tags:
       - Anime
     properties:
